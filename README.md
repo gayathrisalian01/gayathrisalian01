@@ -6,6 +6,9 @@
 <p align="center">
   <a href="https://github.com/gayathrisalian01"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20Bits%20and%20Bytes;Software%20Developer%20Intern;Tech%20Enthusiast&center=true&width=380&height=45"></a>
 </p>
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gayathrisalian01&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 <!--
 **gayathrisalian01/gayathrisalian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
