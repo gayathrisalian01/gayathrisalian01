@@ -1,7 +1,8 @@
 
 <h2 align="center">
-  Hi there
+  Hi there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I am GPS
 </h2>
 <p align="center">
   <a href="https://github.com/gayathrisalian01"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20Bits%20and%20Bytes;Software%20Developer%20Intern;Tech%20Enthusiast&center=true&width=380&height=45"></a>
@@ -13,11 +14,6 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Gayathri P Salian</a></b>
-        </samp>
-</h3>
 
 
 <p align="center"> 
