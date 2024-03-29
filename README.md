@@ -1,8 +1,7 @@
 
 <h2 align="center">
-  Hi there,
+  Hi there, I am Gayathri !!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   I am Gayathri
 </h2>
 <p align="center">
   <a href="https://github.com/gayathrisalian01"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20Bits%20and%20Bytes;Software%20Developer%20Intern;Tech%20Enthusiast&center=true&width=380&height=45"></a>
