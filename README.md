@@ -17,12 +17,9 @@
 
 <p align="center"> 
   <samp>
-    &gt; I am a full stack web application developer
+    &gt; I am a full stack developer
   </samp>
 </p>
-
-<br/>
-
 
 ## Use To Code
 
