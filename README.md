@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/gayathrisalian01"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20Bits%20and%20Bytes;Software%20Developer%20Intern;Tech%20Enthusiast&center=true&width=380&height=45"></a>
 </p>
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=gayathrisalian01">
   <img align="right" src="https://komarev.com/ghpvc/?username=gayathrisalian01&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -22,7 +22,7 @@
 </p>
 
 <br/>
-<br/>
+
 
 ## Use To Code
 
@@ -38,6 +38,29 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/gayathrisalian01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrisalian01&theme=radical&border=7F3FBF&background=0D1117" alt="Gayathri's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gayathrisalian01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayathrisalian01&theme=radical" alt="Gayathri's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/gayathrisalian01"><img alt="Gayathri's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gayathrisalian01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/gayathrisalian01"><img alt="Gayathri's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gayathrisalian01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Gayathri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayathrisalian01&custom_title=Gayathri's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!--
 **gayathrisalian01/gayathrisalian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
