@@ -15,11 +15,7 @@
 <!-- Intro  -->
 
 
-<p align="center"> 
-  <samp>
-    &gt; I am a full stack developer
-  </samp>
-</p>
+
 
 ## Use To Code
 
